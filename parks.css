@@ -1,0 +1,27 @@
+body {
+  background-color: #D3E3E5;
+}
+h1 {
+  font-family: 'Bangers', cursive;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Literata';
+  color: black;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Literata';
+  color: black;
+  font-size: 16px;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
